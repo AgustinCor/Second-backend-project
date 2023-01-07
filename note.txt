@@ -1,0 +1,10 @@
+npm init -y
+
+npm i express sequelize pg pg-hstore
+
+npm i nodemon -D
+
+(comandos sql:\l :ver lsita
+              \c :usar base de dato
+              \d :mostrar tabla
+              \dt: msotart tablas)
